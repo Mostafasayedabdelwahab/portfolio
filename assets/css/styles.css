@@ -386,7 +386,7 @@ img {
     padding: 4rem 0 2rem;
   }
   .home__social {
-    padding-top: 0;
+    padding-top: 20px;
     padding-bottom: 2.5rem;
     flex-direction: row;
     align-self: flex-end;
@@ -397,7 +397,7 @@ img {
   }
   .home__img {
     width: 300px;
-    bottom: 25%;
+    bottom: 0%;
   }
   .about__container {
     grid-template-columns: repeat(2, 1fr);
@@ -452,7 +452,7 @@ img {
   }
   .home__img {
     width: 400px;
-    bottom: 10%;
+    bottom: -30%;
   }
   .about__container {
     padding-top: 2rem;
